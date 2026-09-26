@@ -1,8 +1,8 @@
-# GiFo-RFC-0200 (1.01)
+# GiFo-RFC-0200 (v1.01)
 
-**The Gimel ID 1.01 Identity Framework**
+**The Gimel ID 1.0 Identity Framework**
 
-New Request for Comments of Gimel Foundation (GiFo RFC) - Establishung the Gimel ID 1.01 Identity Framework
+New Request for Comments of Gimel Foundation (GiFo RFC) - Establishung the Gimel ID 1.0 Identity Framework
 
 Abstract of RFC: The Gimel ID 1.0 identity framework (Gimel ID) provides a globally unique identity. This means that it enables people to accurately verify their identity among the eight billion people on Earth and reliably authenticate themselves to a relying party. To do this, Gimel ID performs a proof of personhood. Since an identity is only as secure as the biometrics behind it, Gimel ID uses an individual's DNA data while ensuring that no such data leaves the laboratory and maintaining data privacy. 
 

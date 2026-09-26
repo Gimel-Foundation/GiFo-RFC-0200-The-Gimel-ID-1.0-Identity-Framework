@@ -2,13 +2,13 @@
 
     Gimel Foundation gGmbH i.G.                                    Dr. Goetz G. Wehberg
     GiFo-Request for Comments: 0200                                Digital Supply Institute
-    Obsoletes: 30. November 2025                                   26. September 2026
+    Obsoletes: v1.0 of 30. November 2025                           26. September 2026
     Category: Standards Track
     ISBN: 978-3-00-085202-2
 
-===================================
-The Gimel ID 1.0 Identity Framework
-===================================
+===========================================
+The Gimel ID 1.0 Identity Framework (v1.01)
+===========================================
 
 ::
 
@@ -99,7 +99,7 @@ Gimel ID provides a next level of assurance for identity verification, which can
 
 Gimel ID is freely available as an open-source solution based on Apache 2.0 with the following Exclusions. Users of Gimel ID Must Not – whether directly or indirectly – integrate Gimel ID with:
 
-- The use of the GAuth protocol (see GiFo-RFC0110, -0111 and/or -0115),
+- The use of the AI authorization protocols (e.g. GiFo-RFC0110, -0111 and/or -0115),
 
 - The use of AI to detect and/or manage risks associated with the identity,
 
